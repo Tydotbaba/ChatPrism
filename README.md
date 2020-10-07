@@ -33,7 +33,7 @@ We will build a web user interface around it.
 ## Contributing
     Please stick to this contribution guide
 
-Please read the [contributing guide here](/contributing.md)
+Please read the contributing guide [here](/contributing.md)
 
 
 ## Issues

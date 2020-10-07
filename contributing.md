@@ -26,10 +26,11 @@ The main branch is reserved for main stable app.
 &nbsp;
 To push your code to this repo, please push to the develop branch.
 
-Thus to contribute, follow the following steps strictly:
+Thus to contribute, follow the steps below strictly:
 1. Pick a todo to work on
     - go to the project page and move the todo to the in-progress column. This will let others know what you are currently working on.
     - If you are working on an issue or todo, please create a feature branch.
+    
     &nbsp;
     E.g. say you are working on create login/register page,
     - in your command prompt, enter 
