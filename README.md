@@ -30,6 +30,11 @@ We will build a web user interface around it.
 
 4. Solve the issues of data consumption that puts people off using Zoom, and improve on the issue of "no avenue to provide feedback" that limits Mixlr usage
 
+## Contributing
+    Please stick to this contribution guide
+
+Please read the [contributing guide here](/contributing.md)
+
 
 ## Issues
 
