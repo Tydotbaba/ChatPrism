@@ -10,14 +10,14 @@ We will build a web user interface around it.
 
 ### Key features:
 
-> support more than one language
-> users connect using only audio
+- support more than one language
+- users connect using only audio
 
 ### Tools and skills needed:
 
-> frontend devs
-> backend devs
-> google cloud profesionals
+- frontend devs
+- backend devs
+- google cloud products/services
 
 
 ## Problems Solved:
