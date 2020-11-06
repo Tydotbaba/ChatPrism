@@ -30,13 +30,14 @@ Thus to contribute, follow the steps below strictly:
 1. Pick a todo to work on
     - go to the project page and move the todo to the in-progress column. This will let others know what you are currently working on.
     - If you are working on an issue or todo, please create a feature branch.
-    
+
     &nbsp;
     E.g. say you are working on create login/register page,
     - in your command prompt, enter 
     &nbsp;
 	```
-		git branch login-feature 
+		git checkout develop 
+		git checkout -b login_feature (you can give any feature name)
 	``` 
 
 2. Merge your feature branch to develop branch.
@@ -45,7 +46,7 @@ Thus to contribute, follow the steps below strictly:
 	&nbsp;
 	```
 		git checkout develop
-		git merge login-feature
+		git merge login_feature
 	```
 
 
