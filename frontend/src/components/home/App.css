@@ -1,0 +1,33 @@
+
+/*User code*/
+body {
+  font-family: sans-serif;
+  background-color: #00AFAC !important;
+}
+
+@media (max-width: 544px) {  
+  .h3 {font-size:32px;} /*1rem = 16px*/
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (max-width: 768px) {  
+  .h3 {font-size:28px;} /*1rem = 16px*/
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) { 
+  .h3 {font-size:24px;} /*1rem = 16px*/
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) {  
+  .h3 {font-size:20px;} /*1rem = 16px*/    
+}
+
+.navbar-brand {
+  font-size: 35px;
+}
+
+.abt{
+  font-size: 18px;
+}
